@@ -1,0 +1,27 @@
+# INTRODUCTION
+--------------
+
+* Taking your agile development capabilities to the next level
+--------------------------------------------------------------
+
+* Avoiding Pitfalls
+-------------------
+. Keep your eyes on delivering working software
+
+. Write code that's necessary and leave out the garnish
+
+. Look ahead to how requirements may change, and structure your code base for maximum flexibility
+
+
+* Solutions
+-----------
+. Record and track bugs according to the version or sprint
+
+. Address bugs as early as possible instead of waiting for a big QA at the tail end of a project
+
+. Consider inserting sprints focused on bug/change requests between the development sprints
+
+. Invest in a good product owner.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
