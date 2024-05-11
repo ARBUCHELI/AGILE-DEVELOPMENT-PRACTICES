@@ -36,6 +36,133 @@ Multiple channels of communication --> Share knowledge across disciplines.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Picking your tools
+--------------------
+
+* Possible Tools
+----------------
+. Project management software
+
+. Version control
+
+. Third-party libraries
+
+
+* Why Discuss This?
+-------------------
+. Working software over documentation and processes is a core value, but agile projects need management tools
+
+. Agile can be misconstructed as a loose, fly-by-the-seat-of-your-pants methodology.
+
+
+* Considerations
+----------------
+. What is the best tool for the job?
+
+. Why?
+
+. Is there training ramp-up time for any tools?
+
+
+* For Agile Project Tracking
+----------------------------
+
+. Free options
+--------------
+	. Pivotal Tracker
+
+	. Trello
+
+	. Airtable
+
+. Something more complicated
+----------------------------
+	. Jira
+
+	. Hansoft
+
+
+* Considerations for Third-Party Libraries
+------------------------------------------
+. Requirements
+
+. Application size
+
+. In-house dev time
+
+. Cost
+
+. Maintenance
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 		
