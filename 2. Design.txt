@@ -1,0 +1,66 @@
+# 2. DESIGN
+-----------
+
+* Flexible architecture
+-----------------------
+
+* The Basics
+------------
+. Iterative nature of agile software development means that your code will need to be flexible
+
+. That doesn't mean it has to be completely designed from the beginning, but it needs to be highly adaptable
+
+. Don't worry - there will be time for refactoring.
+
+		MODULAR CODE IS KING
+
+		GOOD DESIGN PATTERN USAGE
+
+		DEADLINES DRIVE CODE
+
+
+* Avoiding Pitfalls
+-------------------
+. Keep your eyes on delivering working software
+
+. Write code that's necessary and leave out the garnish
+
+. Look ahead to how requirements may change, and structure your code base for maximum flexibility
+
+
+* Good Practice
+---------------
+		GOOD SOFTWARE AND AGILE DEVELOPMENT PRACTICE
+		--------------------------------------------
+		. Saves time and headaches leading up to deadlines.
+
+		. Flexible architecture often determines a project's success and chance of an on-time release.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
