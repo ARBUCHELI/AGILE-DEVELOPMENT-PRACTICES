@@ -97,6 +97,67 @@ Multiple channels of communication --> Share knowledge across disciplines.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* To document or not
+--------------------
+
+* Considerations
+----------------
+. Waterfall tends to produce a lot of documentation, sometimes even for its own sake.
+
+. Agile is about leaning down all aspects of development, including documentation.
+
+. It's a constant balancing act between need and time.
+
+
+* Documentation Guidelines
+--------------------------
+. Short document with project standards
+
+. Main document with technical designs
+
+. Include project decisions so you can refer back and validate them down the line
+
+. Include the big picture concepts, but stay away from nitty-gritty detail
+
+
+		PRODUCE NO DOCUMENT UNLESS ITS NEED IS IMMEDIATE AND SIGNIFICANT.
+
+		
+* Document Maintenance
+----------------------
+. If it's significant and meaningful, update your docs
+
+. Otherwise, spend that time developing
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
