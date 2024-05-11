@@ -25,3 +25,61 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* What you should know
+----------------------
+
+* Cards on the Table
+--------------------
+. This course was designed for developers that are already using agile methodologies.
+
+. It doesn't cover any agile basics or foundational knowledge.
+
+. Course topics are platform agnostic and nontechnical.
+
+			Covered				Not Covered
+			-------				-----------
+			. Technical design		. Concept	
+
+			. Development			. Requirement gathering
+			
+			. Testing			. Visual design
+
+			. Release
+
+
+* Semantics
+-----------
+When talking about AGILE in this course, we are referring to the SCRUM METHODOLOGY AND IMPLEMENTATION.
+		   -----        				 ------------------------------------
+
+I'll be using those terms interchangeably, since semantics isn't the goal of this course.
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
