@@ -38,6 +38,29 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Avoiding premature optimization
+---------------------------------
+
+* Through the Looking Glass
+---------------------------
+. Premature optimization as a rabbit hole
+
+. The deeper you go, the less likely you are to realize you've lost sight of the immediate development goals.
+
+
+* Spotting Rabbit Holes
+-----------------------
+. It's difficult to realize you're already down a rabbit hole
+
+. Time is your greatest asset in agile
+
+. Be aware of the trade offs between optimizing your code and moving forward with sprint tasks
+
+. It's not about solving every problem before it happens
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
