@@ -1,0 +1,41 @@
+# 3. DEVELOPMENT
+----------------
+
+* Determining velocity
+----------------------
+
+* Velocity Defined
+------------------
+Velocity is a measurement metric that's used to determine how much work an agile team can do over a period of time. The period of time is usually a sprint, so you might also hear this
+defined as sprint velocity.
+
+
+* Velocity Measurement Considerations
+-------------------------------------
+. Dependent on how your team decides to weight user stories and tasks
+
+. Keep the scoring criteria consistent: points, features, etc
+
+
+* Creating a baseline
+---------------------
+. Set the baseline at 30% of overall sprint duration
+
+. Whether you hit the mark or not, it will show what needs to be improved.
+
+
+* What Velocity Tells Us
+------------------------
+. Once a baseline is established, each following sprint gives you and your team more data points
+
+. Increase sprint goals if you are hitting 30% velocity too easily, or decrease if underdelivering
+
+. After five or six sprints, you'll have a stable velocity to plan with
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
