@@ -69,6 +69,41 @@ another reason why refactoring fits so well within an agile workflow.
 * Refactor, and then refactor more
 ----------------------------------
 
+		WHAT PROGRAMMING METHODOLOGIES GO WELL WITH AGILE DEVELOPMENT
+		-------------------------------------------------------------
+		. Pair Programming.
+
+		. Test-Driven Development (TDD).
+
+
+* Benefits of Pair Programming
+------------------------------
+. Fewer errors and better solutions in code
+
+. Team members all work with each other one-on-one
+
+. Shared ownership of all written code weets out the ego in the equation
+
+
+* Benefits of TDD
+-----------------
+. Only absolutely necessary code makes the cut in the production code base
+
+. It naturally enforces good object-oriented programming practices and clean code
+
+. Functional test suite that grows with the production code
+
+
+* Final Note
+------------
+Using these and other development techniques won't determine whether you're running an agile project.
+
+There are developers who have expressed this view, and it's simply not the case.  These are available tools, nothing more.
+
+If you want to run your agile project using some other way, or by using other techniques, go right ahead. You'll still be running an agile project.
+
+
+
 
 
 
