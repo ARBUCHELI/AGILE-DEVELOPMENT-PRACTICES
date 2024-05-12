@@ -30,3 +30,84 @@ The practice of multiple developers committing code that's efficiently and thoro
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Structuring a release pipeline
+--------------------------------
+
+* Building a Release Pipeline
+-----------------------------
+
+* Release Pipeline
+------------------
+. A release pipeline is a sibling topic of continuous integration
+
+. While CI is concerned with integrating and validating your codebase, a release pipeline is focused on effectively managing your different project configurations.
+
+
+* Practical Example Time
+------------------------
+YOU HAVE A MOBILE APPLICATION YOU'RE BUILDING OUT WITH AGILE, AND YOU WANT THREE DIFFERENT CONFIGURATION OPTIONS:
+
+. Development
+
+. Production
+
+. Release
+
+		THIS IS THE FIRST WAY TO DEAL WITH THIS SITUATION BUT IS NOT EFFICIENT AT ALL
+		-----------------------------------------------------------------------------
+		* MANUALLY SWITCHING CONFIGURATIONS, SETTINGS, AND OTHER METADATA I A TIME-CONSUMING PROCESS.
+
+		* IN AN AGILE DEV ENVIRONMENT, YOU MAY BE BUILDING AND TESTING DIFFERENT CONFIGURATIONS OF YOUR PROJECTS SEVERAL TIMES A DAY.
+
+
+		THIS IS A MORE EFFICIENT WAY TO DEAL WITH THIS SITUATION
+		--------------------------------------------------------
+		* AUTOMATING THIS PROCESS AS MUCH AS POSSIBLE IS YOUR BEST FRIEND.
+
+		* DEPENDING ON WHAT PLATFORM AND IDE YOU'RE WORKING WITH, THERE MIGHT ALREADY BE TOOLS IN PLACE TO HELP MAKE YOUR AGILE LIFE EASIER.
+
+
+* Takeaway
+----------
+. Don't spend sprint development time dealing with these kinds of logistics when you can set up a release pipeline at the beginning of the project.
+
+. Simplify and work smart.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
