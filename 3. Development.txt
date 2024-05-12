@@ -35,6 +35,76 @@ defined as sprint velocity.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Agile programming techniques
+------------------------------
+
+* Common Sense Reasoning
+------------------------
+One of the most important aspects of good agile development is including refactoring into your development time as the status quo - rather than as something you do when there's free time
+in the schedule, or worse yet, as an afterthought.
+
+
+* Considerations
+----------------
+. Produces more readable code
+
+. Better architecture and structure naturally evolve
+
+. Reveals bugs and vulnerabilities early
+
+
+The idea is small, continuous changes that improve your code base over huge one-time retrofits.
+
+This way, you have time to test your refactored improvements right alongside your development.
+
+
+* Avoiding Risk
+---------------
+If you leave refactoring to the end of the project, or after big chunks of code have been written, you run the risk of sending fragmenting ripples through your working code.  This is just 
+another reason why refactoring fits so well within an agile workflow.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
