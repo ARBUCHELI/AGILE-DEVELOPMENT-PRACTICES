@@ -1,0 +1,20 @@
+# 4. Testing
+------------
+
+* Choosing your testing regimen
+-------------------------------
+
+* Common Options
+----------------
+. Test-driven development
+
+. Manual testing
+
+
+* Final Thoughts
+----------------
+Whichever testing regime you choose, it's important to get in the mindset of thinking about testing as a sprint priority - not as something to leave and do all at once during the final
+phase of development before release.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
