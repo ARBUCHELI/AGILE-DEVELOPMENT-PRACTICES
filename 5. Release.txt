@@ -1,0 +1,32 @@
+# 5. RELEASE
+------------
+
+* Continuous Integration
+------------------------
+
+* Continuous Integration
+------------------------
+The practice of multiple developers committing code that's efficiently and thoroughly tested without having to throw major time to the integration.
+
+
+* The Basics
+------------
+. Push a new commit
+
+. Test
+
+. Deploy or release
+
+
+* Some Tools Suggestions
+------------------------
+		CLOUD HOSTED, INTEGRATED WITH GIT OUT OF THE BOX, EASY TO SET UP
+		----------------------------------------------------------------
+		. GitLab
+
+		. CircleCI
+
+		. Travis CI
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

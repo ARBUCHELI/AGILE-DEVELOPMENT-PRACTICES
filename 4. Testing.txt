@@ -18,3 +18,19 @@ phase of development before release.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Handling leapfrogging bugs
+----------------------------
+		REMEMBER THAT THE RULES OF AGILE ARE DESIGNED TO KEEP SPRINT TASKS LOCKED IN ONCE THE SPRINT STARTS
+
+		
+* Solutions
+-----------
+. Record and track bugs according to the version or sprint
+
+. Address bugs early instead of waiting for a a big QA session at the tail end of a project
+
+. Consider inserting sprints focused on bug/change requests between the development sprints
+
+. Invest in a good product owner
+
+
